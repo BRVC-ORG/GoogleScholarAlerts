@@ -13,3 +13,5 @@
 <a href="https://github.com/BRVC-ORG/GoogleScholarAlerts/blob/7d8742361aab2de05a0cdf333a8685d819a53f35/10%20new%20citations%20to%20your%20articles%20-%2025%20September%202025.pdf">25 September 2025</a> (PDF of email)
 
 <a href="https://github.com/BRVC-ORG/GoogleScholarAlerts/blob/8f3d971a22033926bd44493f97ab25680c629a70/10%20new%20citations%20to%20your%20articles%20-%2027%20September%202025.pdf">27 September 2025</a> (PDF of email)
+
+<a href="https://github.com/BRVC-ORG/GoogleScholarAlerts/blob/bac74af47442118979885a0213848df33f5d160f/10%20new%20citations%20to%20your%20articles%20-%2028%20September%202025.pdf">28 September 2025</a> (PDF of email)
